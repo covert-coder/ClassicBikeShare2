@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673511143598",
+    "project_id": "classic-bikeshare",
+    "storage_bucket": "classic-bikeshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673511143598:android:f73b84a0be6b17ac7d953f",
+        "android_client_info": {
+          "package_name": "com.example.ClassicBikeShare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673511143598-2nb8sg5k48a8qarp4dc5ekejfhn4bjlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-WpBrjbNvssM8ZmP2rWmW0fHP_4Quwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673511143598-2nb8sg5k48a8qarp4dc5ekejfhn4bjlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

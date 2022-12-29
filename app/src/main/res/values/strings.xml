@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">ClassicBikeShare</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">4ePUIrqK3jnhOgECkrg16EochgCt5p0PDxqkLSRX</string>
+    <string name="back4app_client_key">8ORSmx0WjEsGKv0JKmz5a2LxrqvIx1IahKlcDFBB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name">profile name</string>
+    <string name="your_bio">your Bio</string>
+    <string name="your_profession">your profession</string>
+    <string name="your_favourite_hobbies">your favourite hobbies</string>
+    <string name="your_favourite_sports">your favourite sports</string>
+    <string name="submit_info">submit info</string>
+    <string name="all_fields_are_required">all fields are required</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter a password</string>
+    <string name ="blank"> </string>
+
+    <string name="signup_new">signup new</string>
+    <string name="or">or</string>
+    <string name="instagram_logo">Instagram Logo</string>
+    <string name="add_a_description_to_your_picture">Add a description to your picture....</string>
+    <string name="share_image">Share Image</string>
+    <string name="drag_your_image_here">Drag your image here</string>
+    <string name="click_to_add_image">click to add image</string>
+
+    <string name="logout_user">Logout User</string>
+
+    <string name="to_share_your_image_first_add_a_description_here_then_click_on_the_image_above">to share your image, first add a description here, then click on the image above, then submit</string>
+    <string name="logout">Logout</string>
+    <string name="btn_View_your_album">View Your Personal Album</string>
+    <string name="post_your_image">Submit Your Image</string>
+    <string name="click_on_a_user_name_for_photos">Click on a user name for photos!</string>
+    <string name="hold_a_user_name_for_details">Hold a user name for details!</string>
+    <string name="scroll_for_more_users">(Scroll for more users)</string>
+    <string name="please_enter_a_password">Please enter a new password</string>
+    <string name="signup_new2">Signup New</string>
+    <string name="please_enter_an_email">Please enter an email</string>
+    <string name="user_login">User Login</string>
+    <string name="please_enter_a_username">Please enter a new username</string>
+    <string name="new_users_should_fill...">new users should fill the fields above, then click Submit</string>
+    <string name="press_here_to_submit_edited_profile">Press here: to Submit Edited Profile</string>
+    <string name="Bio">\"Bio: \"</string>
+    <string name="profile_named">Profile Name:</string>
+    <string name="users_name">\"Username: \"</string>
+    <string name="bikes_you_want_to_have">\"Bikes or parts sought, or for sale: \"</string>
+    <string name="profession">\"Profession: \"</string>
+    <string name="bikes_that_you_own">\"Bikes Owned: \"</string>
+    <string name="bikes_you_own">Bikes owned</string>
+    <string name="bikes_you_are_seeking">bikes or parts  sought or for sale</string>
+    <string name="all_fields_are_requiredtext">(all fields are required)</string>
+    <string name="bio">Bio:</string>
+    <string name="Profession">Profession</string>
+    <string name="Your_bio">Your Bio</string>
+
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="data_is_loading">Data is Loading</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="close">Close</string>
+    <string name="user_stats">User Stats</string>
+    <string name="floating_action">floating_action</string>
+
+    <string name="user_Login">user login</string>
+    <string name="please_enter_your_login">please enter your login</string>
+    <string name="login">goto Login</string>
+    <string name="Login_user">Login</string>
+    <string name="or_goto">or</string>
+    <string name="or_goto_login">or</string>
+    <string name="submit_signup_info">Submit Signup Info</string>
+    <string name="switch_to_login">switch to Login</string>
+    <string name="switch_to_signup">Switch to SignUp</string>
+    <string name="submit_login">Submit Login</string>
+    <string name="enter_your_login_email">Enter your login/email</string>
+    <string name="new_users_should_fill_the_fields_above_then_click_submit">new user hint for signup field</string>
+    <string name="signup">Signup</string>
+<string name ="enter_your_password">Enter Your Password</string>
+
+</resources>
